@@ -1,0 +1,1 @@
+SELECT * FROM superhero WHERE superhero_name LIKE 'S%';

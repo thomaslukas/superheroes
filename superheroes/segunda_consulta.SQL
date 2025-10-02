@@ -1,0 +1,1 @@
+SELECT superhero_name, full_name ,publisher_id FROM superhero;
